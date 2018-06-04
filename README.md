@@ -13,3 +13,6 @@ A list of corals that I want to get when my reef tank is ready
 
 ## LPS
 * Candy Cane
+* Rainbow Platygyra
+* Dragon Soul Prism Goniastrea
+* Cherry Blastomussa
