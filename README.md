@@ -2,10 +2,10 @@
 A list of corals that I want to get when my reef tank is ready
 
 ## Plate Corals
-** Starburst Cap Montipora
+* Starburst Cap Montipora
 
 ## Hammer Corals
-** Yellow Hammer
+* Yellow Hammer
 
 ## SPS
-** Any Blue SPS
+* Any Blue SPS
