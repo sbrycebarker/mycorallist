@@ -9,3 +9,7 @@ A list of corals that I want to get when my reef tank is ready
 
 ## SPS
 * Any Blue SPS
+* Slimeball Anacropora
+
+## LPS
+* Candy Cane
