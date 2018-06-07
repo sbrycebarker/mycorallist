@@ -11,7 +11,7 @@ A list of corals that I want to get when my reef tank is ready
 * Any Blue SPS
 * Slimeball Anacropora
 
-# Chalices
+## Chalices
 * WWC Dip N Dots Chalice
 
 ## LPS
