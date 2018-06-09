@@ -1,5 +1,5 @@
-# mycorallist
-A list of corals that I want to get when my reef tank is ready
+# myreeflist
+A list of corals, fish and other things that I want to get when my reef tank is ready
 
 ## Plate Corals
 * Starburst Cap Montipora
